@@ -1,7 +1,7 @@
 # datacollection-challenge
 # MarsSoup
 
-An jupyter notebook analysis of data scarped from two websites using Splinter and Beautiful Soup.
+An jupyter notebook analysis of data scraped from two websites using Splinter and Beautiful Soup.
 
 ## Description
 
